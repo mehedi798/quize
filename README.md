@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <h1>Masum Vai Valo Manus</h1>
-<h1>shawn bhaiher   Lucchami</h1>
+<h1>shaown bhaiher   Lucchami</h1>
 <pre>
           Expanded(
                 flex: 1,
