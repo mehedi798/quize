@@ -107,7 +107,7 @@ class _QuizePageState extends State<QuizePage> {
                     child: Center(
                       child: TextButton(
                         onPressed: () {
-                      
+
                           questionsNumber++;
                           setState(() {
                             scoreKeeper.add(
